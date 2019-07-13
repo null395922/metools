@@ -21,8 +21,8 @@ script:
 after_script:
   - cd ./dist
   - git init
-  - git config user.name "${U_NAME}"
-  - git config user.email "${U_EMAIL}"
+  - git config user.name "null395922"
+  - git config user.email "444395922@qq.com"
   - git add .
   - git commit -m "Update tools"
   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
