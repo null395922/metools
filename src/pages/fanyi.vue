@@ -2,7 +2,7 @@
     <v-tab :items="tabItems">
         <div slot="fanyi">
             <div class="layui-form-item layui-form-text">
-                <label class="layui-form-label">翻译的句子</label>
+                <label class="layui-form-label">翻译的句子翻译的句子翻译的句子翻译的句子翻译的句子翻译的句子</label>
                 <div class="layui-input-block">
                     <textarea v-model="model.beforeTxt" @keydown.enter="youdaofanyi"
                               placeholder="请输入转换前字符串..."
