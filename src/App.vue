@@ -12,7 +12,7 @@
                <a @click="$options.filters.openRoute('/')" v-text="siteInfo.SiteName"></a>
             </div>
             <div class="user-action" v-else>
-               <a @click="$options.filters.openRoute('/')" >个人工具站 - By 易墨</a>
+               <a @click="$options.filters.openRoute('/')" >个人工具站 - ByByByByByBy 易墨</a>
             </div>
         </div>
         <div class="layui-side layui-bg-black" id="leftMenu">
