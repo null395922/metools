@@ -25,7 +25,7 @@ after_script:
   - git config user.email "444395922@qq.com"
   - git add .
   - git commit -m "Update tools"
-  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:${P_BRANCH}
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
 # E: Build LifeCycle
 
 branches:
@@ -33,4 +33,4 @@ branches:
     - master
 env:
  global:
-   #- GH_REF: github.com/yimogit/metools.git
+   - GH_REF: github.com/null395922/null395922.github.io.git
