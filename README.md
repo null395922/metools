@@ -1,3 +1,7 @@
+[鼠标 - 小众软件](https://www.appinn.com/?s=%E9%BC%A0%E6%A0%87)
+
+> ## [Shortcat – 扔掉你的鼠标\[Mac\]](https://www.appinn.com/shortcat/ "Shortcat – 扔掉你的鼠标[Mac]")
+
 # 个人工具站点
 
 **这个工具个人及朋友实际使用的时候主要还是 Chrome 插件居多，欢迎使用(https://github.com/yimogit/metools-plugin)**
